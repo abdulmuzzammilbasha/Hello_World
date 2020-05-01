@@ -7,6 +7,7 @@ lets make some cool things later using git hub.
 */
 public class Test{
   public static void main(String[] args){
-  System.out.println("Hello_World")
+  System.out.println("Hello_World");
+  System.out.println("practice the github");
   }
 }
